@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="55" started-at="2024-11-19T09:20:37Z" finished-at="2024-11-19T09:20:37Z">
+  <suite name="Default suite" duration-ms="76" started-at="2024-11-20T10:30:25Z" finished-at="2024-11-20T10:30:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="55" started-at="2024-11-19T09:20:37Z" finished-at="2024-11-19T09:20:37Z">
+    <test name="Default test" duration-ms="76" started-at="2024-11-20T10:30:25Z" finished-at="2024-11-20T10:30:26Z">
       <class name="oops.Inheritance">
-        <test-method status="PASS" signature="inheritance()[pri:0, instance:oops.Inheritance@100fc185]" name="inheritance" duration-ms="15" started-at="2024-11-19T09:20:37Z" finished-at="2024-11-19T09:20:37Z">
+        <test-method status="PASS" signature="inheritance()[pri:0, instance:oops.Inheritance@100fc185]" name="inheritance" duration-ms="26" started-at="2024-11-20T10:30:26Z" finished-at="2024-11-20T10:30:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- inheritance -->
